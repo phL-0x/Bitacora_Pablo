@@ -462,7 +462,7 @@ Así como también, estos trabajos investigativos que se asemejan a la visión d
 
 Con motivo de esclarecer cuál es la bibliografía por utilizar para la construcción de este trabajo investigativo, se muestran a continuación algunos de los recursos:
 
-**Título: The causes and consequences of the missing immigrants. [@MinneapolisFed]**
+**Título: The causes and consequences of the missing immigrants. [@MinneapolisFed]** 1 
 
 -   Autora: Lisa Camner McKay
 
@@ -490,7 +490,7 @@ Con motivo de esclarecer cuál es la bibliografía por utilizar para la construc
 -   Resumen de un párrafo: El congreso legislativo estadounidense no ha estado activo en lo que políticas de inmigración se refiere.
     En cambio, es el poder ejecutivo el que estado dándole más forma a esta área social; el problema radica en que quien está en la presidencia posee un gran número de limitaciones; generando así un incierto acerca de la política de inmigración.
 
-**Título: Psychology of Immigration 101. [@APA]**
+**Título: Psychology of Immigration 101. [@APA]** 2 
 
 -   Autores: American Psychological Association.
 
@@ -515,7 +515,7 @@ Con motivo de esclarecer cuál es la bibliografía por utilizar para la construc
 
 -   Resumen de un párrafo: El bienestar de las personas inmigrantes se encuentra constantemente en deterioro, esto porque la xenofobia, discriminación y racismo están plenamente arraigados en el mundo, lo cual influye de manera sumamente negativa en la mente estas personas en estado de vulnerabilidad.
 
-**Título: Inmigration Data Matters. [@migrationpolicy]** 
+**Título: Inmigration Data Matters. [@migrationpolicy]**  3
 
 -   Autores: Jeanne Batalova, Andriy Shymonyak and Michelle Mittelstadt.
 
@@ -540,7 +540,7 @@ Con motivo de esclarecer cuál es la bibliografía por utilizar para la construc
 
 -   Resumen de un párrafo: Bases de datos nacionales y reportes de países que son parte de la Unión Europea, que muestra datos de: detención, condiciones y protección.
 
-**Título: Introduction to Human Geography. [@Todd]**
+**Título: Introduction to Human Geography. [@Todd]** 4 
 
 -   Autores: David Dorrell, Georgeta Connor, Joseph Henderson, Todd Lindley, Adam Dohrenwend, Juana Ibáñez, Molly McGraw, Alan Ciba, Neusa Hidalgo Monroy Wohlgemuth, Rusti Liner.
 
@@ -564,7 +564,7 @@ Con motivo de esclarecer cuál es la bibliografía por utilizar para la construc
 
 -   Resumen de un párrafo: Existen tendencias generales en la migración global, donde factores como la economía influyen enormemente en este fenómeno. Se describe la migración Norte-Sur, que se refiere a los casos relacionados entre Canadá y USA con Latinoamérica en general, donde por causa de la pobreza se presenta la necesidad de moverse a países más desarrollados. También se da una breve explicación sobre la influencia de fenómenos como el cambio climático y los desastres naturales, donde cada vez toman mayor importancia.
 
-**Título: Introducción a la Estadística. [@Zabala]**
+**Título: Introducción a la Estadística. [@Zabala]** 5 
 
 -   Autor: Martín Andonegui Zabala.
 
@@ -588,7 +588,7 @@ Con motivo de esclarecer cuál es la bibliografía por utilizar para la construc
 
 -   Resumen de un párrafo: Se encuentra diferentes tipos de información en todos lados, por lo que es importante saber interpretarla, reconocer que datos son más relevantes que otros al analizar sus características (ya sean cualitativos o cuantitativos) y determinar si se puede concluir algo a cerca de ellos. Por lo que existe la estadística, que trata sobre cómo manejar dichos datos utilizando diferentes métodos.
 
-**Título: La Correlación de Pearson y el proceso de regresión por el Método de Mínimos Cuadrados. [@Fiallos]**
+**Título: La Correlación de Pearson y el proceso de regresión por el Método de Mínimos Cuadrados. [@Fiallos]** 6
 
 -   Autor: Germán Fiallos.
 
@@ -612,7 +612,7 @@ Con motivo de esclarecer cuál es la bibliografía por utilizar para la construc
 
 -   Resumen de un párrafo: El coeficiente de correlación de Pearson nos indica cómo están correlacionadas dos variables, en primer lugar, si existe dicha correlación, si es directa o indirecta (índice negativo o positivo) donde la directa significa que el incremento de una variable implica el incremento de la otra y la indirecta que el incremento de una variable implica la reducción de la otra. Además, se puede analizar la intensidad con que están correlacionadas estas variables.
 
-**Título: Determinar. [@RAE]**
+**Título: Determinar. [@RAE]** 7 
 
 -   Autor: Real Academia Española.
 
@@ -636,7 +636,7 @@ Con motivo de esclarecer cuál es la bibliografía por utilizar para la construc
 
 -   Resumen de un párrafo: Determinar se refiere a establecer o definir algo de forma precisa, implica tener seguridad sobre una situación, condición o cantidad. La determinación se requiere para poder tomar decisiones y lograr llegar a una conclusión sobre lo que se habla. Se utiliza mucho en contextos donde se den lugar evaluaciones o decisiones fundamentadas. Algunos de sus sinónimos son decidir, resolver, concluir, acordar, etc. 
 
-**Título: Missing Migrants Project. [@Nocco]**
+**Título: Missing Migrants Project. [@Nocco]** 8
 
 -   Autor: Stefano Nocco.
 
@@ -660,7 +660,7 @@ Con motivo de esclarecer cuál es la bibliografía por utilizar para la construc
 
 -   Resumen de un párrafo: Expone los diferentes casos de migrantes desaparecidos incluyendo ubicación geográfica, fecha en la que ocurrió el incidente, ruta que seguían los migrantes para llegar al lugar de destino, género de las víctimas, si hubieron niños involucrados, etc. En cada caso se tiene el número de sobrevivientes, muertes o personas aún desaparecidas. Con los datos se puede identificar que países presentar en mayor medida el problema, ya se por tener muchos inmigrantes o emigrantes. 
 
-**Título: Migrant deaths and disappearances. [@migrationdataportal]**
+**Título: Migrant deaths and disappearances. [@migrationdataportal]** 9
 
 -   Autores: Desconocido. 
 
@@ -684,7 +684,7 @@ Con motivo de esclarecer cuál es la bibliografía por utilizar para la construc
 
 -	Resumen de un párrafo: Recopilación de datos a nivel mundial: El Proyecto Migrantes Desaparecidos de la OIM es la única base de datos que recopila datos sobre muertes de migrantes. Las fuentes de datos que se emplean varían según la disponibilidad en cada región. Por ejemplo, en la región del Mediterráneo, el personal local de la OIM transmite datos cuando asiste a los sobrevivientes en los puntos de desembarco en Libia. En la frontera entre Estados Unidos y México, los datos se compilan en base a datos de los médicos forenses y las oficinas de los alguaciles de los condados de Estados Unidos, las agencias de búsqueda y rescate (SAR) mexicanas y fuentes de los medios de comunicación. En la Encuesta sobre la travesía del desierto del Sahara, se incluyen datos de la Matriz de Seguimiento de Desplazamientos (DTM) de la OIM. Las estimaciones en otras regiones se basan en una combinación de fuentes oficiales, datos de la OIM y otros organismos de las Naciones Unidas, datos de organizaciones de la sociedad civil y, principalmente, informes de los medios de comunicación.
 
-**Título: Protection of migrants from enforced disappearance: A human rights perspective. [@Duhaime]**
+**Título: Protection of migrants from enforced disappearance: A human rights perspective. [@Duhaime]** 10
 
 -   Autores: Bernard Duhaime and Andréanne Thibault. 
 
@@ -707,7 +707,7 @@ Problemas con el argumento: Ninguno.
 
 -   Resumen de un párrafo:  A veces, los agentes del Estado pueden ser ellos mismos contrabandistas o traficantes, organizando el tráfico o trata de migrantes, facilitando la migración indocumentada o posibilitando la estancia de migrantes irregulares. En otras ocasiones, participan indirectamente en actividades de tráfico y trata de migrantes llevadas a cabo por actores privados, facilitando operaciones, permitiendo la entrada de migrantes indocumentados, proporcionando documentos fraudulentos o simplemente haciendo la vista gorda. Las actividades de tráfico y trata de migrantes a menudo se llevan a cabo con la participación o colaboración de funcionarios estatales corruptos, y la corrupción y la colusión son generalmente una parte crítica de dichas operaciones.
 
-**Título: A decade of documenting more than 63,000 migrant deaths shows that fleeing is more lethal than ever. [@Brito]**
+**Título: A decade of documenting more than 63,000 migrant deaths shows that fleeing is more lethal than ever. [@Brito]** 11
 
 -   Autores: Renata Brito and Kerstin Sopke. 
 
@@ -731,7 +731,7 @@ Problemas con el argumento: Ninguno.
 
 -   Resumen de un párrafo: Los guardacostas libios, formados y financiados por la UE, han sido vinculados con traficantes de personas que explotan a migrantes que son interceptados y devueltos a precarios centros de detención. Un grupo de expertos respaldado por la ONU ha concluido que los abusos cometidos contra los migrantes en el Mediterráneo y en Libia pueden constituir crímenes contra la humanidad.
 
-**Título: Claiming Time: Refugees and Asylum Seekers Dealing with the Production of Different Temporal Regimes by Asylum and Reception Policies. [@Giuliana]**
+**Título: Claiming Time: Refugees and Asylum Seekers Dealing with the Production of Different Temporal Regimes by Asylum and Reception Policies. [@Giuliana]** 12
 
 -   Autores: Giuliana Sanò, Giulia Storato y Francesco Della Puppa.
 
